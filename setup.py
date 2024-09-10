@@ -34,6 +34,7 @@ setup(
         "Pillow>=9.0.0",
         "tifffile>=2023.3.15",
         "czifile>=2019.7.2",
+        "imagecodecs"
     ],
     entry_points={
         "console_scripts": [
